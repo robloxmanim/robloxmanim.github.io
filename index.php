@@ -17,4 +17,7 @@
 
     </style>
     <!-- PHP HyperText Processor -->
+     <?php
+     echo "Hello world"
+     ?>
 </html>
